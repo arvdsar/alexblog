@@ -19,8 +19,6 @@ This RAID 1 protection is one step in safeguarding your data but, depending on y
 
 **DO NOT UNDERESTIMATE THE RISKS !**
 
-**<!--more-->**
-
 There are some additional measures you can take to avoid data loss:
 
 - Create a backup on external HDD (electrical device that will die when lightning strikes!)
