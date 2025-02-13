@@ -1,5 +1,5 @@
 ---
-title: "DIY - Domotica Gateway"
+title: "Domotica Gateway"
 date: "2012-12-04"
 author: Alexander
 ---
@@ -118,7 +118,9 @@ For more details, check out the **RF12 library** and search Google for related d
 
 ### Download
 
-[Download the full package here.](#)
+![[attachments/Arduino Collection RFM12b - Febr 2013.zip]]
+![[attachments/Libraries for collection febr 2013.zip]]
+
 
 This package includes:
 

@@ -1,5 +1,5 @@
 ---
-title: "DIY - SensorBox - Arduino with RFM12b & LAN"
+title: "SensorBox - Arduino with RFM12b & LAN"
 date: "2013-02-22"
 author: Alexander
 ---
@@ -31,14 +31,13 @@ You can download the source code for the SensorBox. You will need to register on
 
 The latest version is v0.16 and uses a new `datastructure.h` (included in the download).
 
-[Download v0.16](#)
-[Download v0.2 for TinyTX](#)
+![[attachments/SensorBox_OpenSense_v016_public.zip]]
 
 I’ve also attached one example of the TinyTX code I use for a DHT22 sensor. Check out the TinyTX website for the most recent updates. Remember to copy `datastructure.h` into a folder in your Arduino library folder to ensure consistency between all sources.
 
 The latest version is v0.2, which works with SensorBox v0.16. You can modify it to suit your needs.
 
-[Download TinyTX Example](#)
+![[attachments/TinyTX_DHT22_v02.zip]]
 
 ### My specific changes to the code:
 Within the TinyTX code, a `struct` is defined. That `struct` is sent using the RFM12b modules from the sensor node to the SensorBox. The RFM12b does not know what you send, but if you send a bunch of bits and bytes in a `struct` format and put them in the same structure when you receive them, it’s like transferring the struct.

@@ -1,5 +1,5 @@
 ---
-title: "DIY - Doorbell to Smartphone"
+title: "Doorbell to Smartphone"
 date: "2012-12-09"
 author: Alexander
 ---

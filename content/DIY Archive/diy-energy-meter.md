@@ -1,5 +1,5 @@
 ---
-title: "DIY - Energy Monitor"
+title: "Energy Monitor"
 date: "2012-12-02"
 author: Alexander
 ---

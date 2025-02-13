@@ -1,5 +1,5 @@
 ---
-title: "DIY - Arduino Wireless LCD Display"
+title: "Arduino Wireless LCD Display"
 date: "2012-12-03"
 author: Alexander
 ---

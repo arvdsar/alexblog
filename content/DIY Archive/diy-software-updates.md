@@ -1,5 +1,5 @@
 ---
-title: "Arduino DIY - Software updates"
+title: "Arduino - Software updates"
 date: "2013-04-02"
 categories: 
   - "arduino"

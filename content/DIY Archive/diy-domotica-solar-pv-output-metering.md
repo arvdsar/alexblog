@@ -1,13 +1,15 @@
 ---
-title: "DIY - Domotica & Solar (PV) Output Metering"
+title: "Domotica & Solar (PV) Output Metering"
 date: "2012-10-14"
 author: Alexander
 ---
 
 Check out the menu item **"DIY Domotica & Energy"** for several pages about DIY projects with source code!
 
+
 [Download Energy Meter Package](#)  
 [Download Domotica Gateway Package](#)  
+
 
 You receive the complete package, including the Energy Meter, Domotica Gateway, SensorBox, and Wireless LCD Display, ensuring all versions work together. The libraries included are as they currently exist on my disk. While they may not be the latest versions, they should work with the source code. However, the sources are not entirely user-friendly, so you may need to modify the code to fit your specific needs.
 
