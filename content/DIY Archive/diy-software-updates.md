@@ -12,7 +12,7 @@ tags:
   - "wannahaves"
 ---
 
-At the moment I'm still working to improve the DomoticaBox, SensorBox, Wireless LCD Display software. Once I have a new complete matching set that is suitable for download, I will update the links on this site again. Some improvements are:
+~~At the moment I'm still working to improve the DomoticaBox, SensorBox, Wireless LCD Display software. Once I have a new complete matching set that is suitable for download, I will update the links on this site again.~~ Some improvements are:
 
 - Watchdog to auto reset in case of lockups
 - Use EEPROM for storing Open.Sen.Se feedID's for the SensorBox

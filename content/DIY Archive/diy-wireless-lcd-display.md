@@ -6,7 +6,7 @@ author: Alexander
 
 The data from the energy monitor Arduino is published online with PVOutput.org, but you have to be online to view the data. I wanted to see the data in our living room without using a PC or smartphone. So, I built an Arduino-based wireless LCD display that can send and receive data using the RFM12b 868 MHz transceiver.
 
-Unfortunately, you need a power supply, so one wire is necessary. :-(  
+Unfortunately, you need a power supply, so at least one wire is necessary.   
 (In my previous versions, I used cheap 434 MHz receivers with the Virtual Wire library. I've upgraded my setup to all RFM12b transceivers, so I can send & receive data and use the Jeelib library. An additional benefit is that I can easily use an ATtiny84 for sensors like TinyTX.)
 
 ### The Wireless LCD Display Uses the Following Components:
@@ -44,8 +44,9 @@ For about $6, you get a calibrated temperature and humidity sensor. Search on eB
 ### Libraries Used:
 Several libraries are used, available on the internet. See this page for the libraries used in my projects. Credits go to the people who created those libraries, as they save us loads of work! ;-)
 
-[wpdm_file id=4]  
-[wpdm_file id=5]
+
+![[attachments/Arduino Collection RFM12b - Febr 2013.zip]]
+![[attachments/Libraries for collection febr 2013.zip]]
 
 You will receive the whole package: Energy Meter, Domotica Gateway, SensorBox, and Wireless LCD Display, so all versions work together. I've packed all libraries as they are on my disk now. These might not be the most recent versions, but they should work with the sources. 
 

@@ -16,8 +16,6 @@ The sound of our regular doorbell isn't heard everywhere in the house. Also, som
 
 Pushingbox is an online service which you can trigger from an Arduino microcontroller very easy. Pushingbox will execute a specified scenario in which it can send messages to email, twitter, Prowl!, Android notifiers and so on. It is also capable of loading content from an URL which makes you can download an image from a webcam (or IP Cam) and attach it to email.
 
-<!--more-->
-
 Many online services offer some kind of email interface. You can have your own Facebook.com email address and send a notification including image to Facebook from pushingbox. Or send the same email to your Evernote email and create a logbook with images of everybody at your door on Evernote. Many telecom operators offer email to SMS gateways but when using a smartphone you don't need that.
 
 I already have a Foscam IP camera pointed at the door, so it was a small step to hook it up in Pushingbox. Use the following URL in the scenario configuration (check for steps the included [article](http://makeprojects.com/Project/Notifying+Doorbell+with+PushingBox/2165/1) below). http://URL:PORT/snapshot.cgi?user=USERNAME&pwd=PASSWORD
@@ -30,6 +28,3 @@ Currently I use the doorbell receiver connected to an analog port. I experienced
 
 The doorbell is connected to my Domotica gateway. The Domotica gateway triggers Pushingbox.com and also wireless sends a command to the Wireless LCD Display. A message will appear on the LCD and some tunes are played.
 
-<script type="text/javascript" src="https://cacher.dozuki.net/static/embed/ifixit-embed.3.js#id=2165&amp;site=makeprojects.com" data-dozuki-embed="3">// <![fusion_builder_container hundred_percent="yes" overflow="visible"][fusion_builder_row][fusion_builder_column type="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" spacing="yes" background_image="" background_repeat="no-repeat" padding="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="no" center_content="no" min_height="none"][CDATA[ <div></div> // ]]></script>
-
-[Notifying Doorbell with PushingBox](http://makeprojects.com/Project/Notifying+Doorbell+with+PushingBox/2165/1)\[/fusion\_builder\_column\]\[/fusion\_builder\_row\]\[/fusion\_builder\_container\]

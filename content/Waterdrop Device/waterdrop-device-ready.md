@@ -13,8 +13,6 @@ tags:
   - "waterdrops"
 ---
 
-[![](images/5249842528_68875b3ee1_z-150x150.jpg "One of the first images")](https://www.vdsar.net/wp-content/uploads/2010/12/5249842528_68875b3ee1_z.jpg)
-
 After some experiments with waterdrop photography, I started to build a microcontroller controlled waterdrop device. It took 1,5 month in programming, building some electronics and also a lot of waiting for the airmail to deliver several parts.  Yesterday it was the moment that all parts were connected, the watertank was filled and the first photocycle was started. It took about 15 minutes to determine the timing thanks to the auto increment programs which automatically increases the time between creating a drop and taking the photo.  Attached one of the first pictures taken.
 
 The device works amazingly accurate and creates nice results. Now it's time to optimize the application and start experimenting with different colors, timings and lighting.
@@ -25,4 +23,4 @@ More details can be found on the following pages:
 - [Schematics](https://www.vdsar.net/diy-waterdrop-device/schematics)
 - [Application](https://www.vdsar.net/diy-waterdrop-device/application)
 
-More pictures to come......
+

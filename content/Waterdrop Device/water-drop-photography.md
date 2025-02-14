@@ -17,7 +17,6 @@ Ever wanted to know how to make spectaculair photo's of (water)drops? It's less 
 
 _Update: You might want to look at my [DIY waterdrop device](https://www.vdsar.net/diy-waterdrop-device)_
 
-![](images/DSC_4939-1-150x150.jpg "Result of my first water drop exercise")
 
 You need some tools and equipment to get started:
 
@@ -32,7 +31,7 @@ You need some tools and equipment to get started:
 
 Now you are ready to go.
 
-<!--more-->The easiest way is to fill your sink with water and turn on the faucet just a little bit so a drop of water falls every couple of seconds into the sink. Put the piece of paper of other background material behind the scene and use your flash to light the paper (not the water itself). Set your flash on manual with about 1/16 power which creates a very short lighting pulse to freeze the drop movement. Setup your camera on a sufficient aperture. The darker the environment, the lower (low F-number) your setting can be to create a limited depth of field. Probably it's best to start practising using F16 to create relatively large depth of field and you can keep some light in the room to see what you are doing. The shutterspeed can be the fastest that your flash allows, usually about 1/160 - 1/200. After takin a picture, check your camera display to see if the lighting is okay. You can control this by changing aperture and/or the flash power.
+The easiest way is to fill your sink with water and turn on the faucet just a little bit so a drop of water falls every couple of seconds into the sink. Put the piece of paper of other background material behind the scene and use your flash to light the paper (not the water itself). Set your flash on manual with about 1/16 power which creates a very short lighting pulse to freeze the drop movement. Setup your camera on a sufficient aperture. The darker the environment, the lower (low F-number) your setting can be to create a limited depth of field. Probably it's best to start practising using F16 to create relatively large depth of field and you can keep some light in the room to see what you are doing. The shutterspeed can be the fastest that your flash allows, usually about 1/160 - 1/200. After takin a picture, check your camera display to see if the lighting is okay. You can control this by changing aperture and/or the flash power.
 
 I assume you already understood to mount the camera on the tripod and point it to the area where the waterdrop hits the water surface ;-).
 
@@ -46,7 +45,6 @@ Preferably you use a real macro lens, but using a close-up lens which you can mo
 
 A nice video from [Gavin Hoey](http://gavtrain.blogspot.com/) who explains it very nicely:
 
-\[fusion\_builder\_container hundred\_percent="yes" overflow="visible"\]\[fusion\_builder\_row\]\[fusion\_builder\_column type="1\_1" background\_position="left top" background\_color="" border\_size="" border\_color="" border\_style="solid" spacing="yes" background\_image="" background\_repeat="no-repeat" padding="" margin\_top="0px" margin\_bottom="0px" class="" id="" animation\_type="" animation\_speed="0.3" animation\_direction="left" hide\_on\_mobile="no" center\_content="no" min\_height="none"\]\[youtube\]fwExpFDUC9Y
 
 **Next steps:**
 
@@ -54,4 +52,4 @@ Replace the water with another liquid like milk, coffee, beer and so on. Probabl
 
 By experimenting with the speed the drops fall, you can create other effects like collisions. (The second drop falls into the splash of the first drop and creates a nice effect.)
 
-Use google and find more articles and examples on water drop photography.\[/fusion\_builder\_column\]\[/fusion\_builder\_row\]\[/fusion\_builder\_container\]
+Use google and find more articles and examples on water drop photography.\

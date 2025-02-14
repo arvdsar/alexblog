@@ -1,33 +1,36 @@
 ---
-title: "OpenDNS maakt je netwerk en internet gebruik veiliger"
-date: "2011-02-11"
-categories: 
-  - "howto"
-  - "lifehacking-2"
-  - "tech"
-tags: 
-  - "computer"
-  - "dns"
-  - "internet"
-  - "lifehacking"
+title: OpenDNS makes you network and internet use a bit more secure
+date: 2011-02-11
+categories:
+  - howto
+  - lifehacking-2
+  - tech
+tags:
+  - computer
+  - dns
+  - internet
+  - lifehacking
 ---
+# The DNS (Domain Name System)
 
-Het DNS (Domain Name System) is het systeem wat de internet adressen zoals [www.vdsar.net](https://www.vdsar.net) vertaalt naar het bijbehorende IP adres zodat de website op onze computer getoond kan worden. Elke internet aanbieder heeft zijn eigen DNS server die je automatisch gebruikt als je van je internet aansluiting gebruik maakt. Dit is over het algemeen een vrij eenvoudige dienst zonder extra mogelijkheden voor beveiliging, blokkeringen, bewaking of logging.
+The DNS (Domain Name System) is the system that translates internet addresses such as [www.vdsar.net](https://www.vdsar.net) into the corresponding IP address so that the website can be displayed on our computer. Every internet provider has its own DNS server that you automatically use when connecting to the internet. Generally, this is a basic service without additional features for security, blocking, monitoring, or logging.
 
-[OpenDNS](http://www.opendns.com) is een aanbieder van een DNS systeem met veel meer [mogelijkheden](http://www.opendns.com/start/).
+[OpenDNS](http://www.opendns.com) is a provider of a DNS system with many more [features](http://www.opendns.com/start/).
 
-<!--more-->
 
-De DNS servers zijn over het algemeen ook sneller dan die van je internet aanbieder. Je kunt er gratis gebruik van maken maar je kunt uiteraard ook kiezen voor een betaald pakket wat nog meer mogelijkheden biedt.
+The DNS servers are generally faster than those of your internet provider. You can use them for free, but you also have the option to choose a paid plan that offers even more features.
 
-Het gebruik van het OpenDNS systeem is een eenvoudige wijziging in je apparatuur zoals je PC, Mac, Telefoon, etc. Op je thuis netwerk heb je waarschijnlijk ook een router hangen waarin je de DNS instellingen kunt aanpassen zodat elk apparaat op je netwerk hier automatisch gebruik van gaat maken.
+Using the OpenDNS system is a simple modification to your devices, such as your PC, Mac, phone, etc. On your home network, you likely have a router where you can adjust the DNS settings so that every device on your network automatically uses it.
 
-**Maar waarom wil je dit nu?** Een van de opties is het blokkeren van bepaalde websites. De blokkering houdt niet het verkeer naar de site tegen, maar zorgt er wel voor dat de site niet gevonden kan worden. Je kunt op deze manier heel eenvoudig sites blokkeren. Tevens zitten er standaard filters in die websites met bijvoorbeeld geweld, drugs, gokken en sex kunnen blokkeren.
+## Why Would You Want This?
 
-Een andere optie is het registreren van alle gebruikte internet adressen. Wil je in de gaten houden waar bijvoorbeeld je kinderen, medewerkers of gasten naartoe surfen, dan is dit een geschikte optie.
+One of the options is blocking certain websites. The block does not stop traffic to the site but ensures that the site cannot be found. This allows you to easily block websites. Additionally, there are built-in filters that can block websites related to violence, drugs, gambling, and adult content.
 
-Tevens houdt OpenDNS ook een lijst bij van schadelijke sites die worden gebruikt door malware of virussen. Het virus zal dan de site waar het bijvoorbeeld persoonlijke informatie naartoe wil sturen, niet kunnen vinden. Zo biedt OpenDNS ook extra bescherming. Dit is een ideale optie voor mensen of bedrijven die internet aanbieden aan hun visite of bezoekers.
+Another option is logging all visited internet addresses. If you want to monitor where your children, employees, or guests are surfing, this is a useful feature.
 
-_Let op: Een beetje handige wizzkid weet zich wel onder de DNS instellingen van het systeem uit te draaien. Heb je met wizzkids te maken, zorg dan ook voor goede beveiliging van je systeem zodat ze de netwerkinstellingen niet kunnen wijzigen._
+OpenDNS also maintains a list of harmful sites used by malware or viruses. This prevents a virus from finding the site it wants to send personal information to. Thus, OpenDNS provides additional protection. This is an ideal option for individuals or businesses offering internet access to guests or visitors.
 
-Naar mijn idee is OpenDNS voor iedereen een goed idee, al is het alleen maar omdat het een beetje extra bescherming biedt tegen virussen en malware die vanaf jou PC naar schadelijke sites gaan.
+> **Note:** A tech-savvy user can bypass the DNS settings. If you are dealing with such users, ensure that your system is well-secured so they cannot change the network settings.
+
+In my opinion, OpenDNS is a great choice for everyone, even if only for the extra protection against viruses and malware trying to connect your PC to harmful sites.
+

@@ -7,8 +7,6 @@ categories:
 
 As mentioned in one of my [previous posts](https://www.vdsar.net/archives/643), I've bought a secondhand [Nikon F80 SLR](https://www.vdsar.net/archives/643) with a AF 35-70mm lens. I own some other lenses which are made for DX size sensors like being used in i.e. Nikon D3100, D5000, D7000, etc. Those lenses project a smaller image size than the FX size lenses. The lenses do fit and work on the F80 camera including the AF-S autofocus and Vibration Reduction (VR).  I've made some pictures using the DX lenses on the 35mm Film SLR to see if they can be used in at least a part of the focuslength area.
 
-<!--more-->
-
 Here are my findings:
 
 - Nikon AF-S 55-200mm VR @ 200mm: Has more vignetting in the corners compared to 55mm. It can be used if your object is in the center of the image
