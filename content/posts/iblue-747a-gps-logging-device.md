@@ -14,7 +14,7 @@ I usually use my windows mobile phone with build in GPS receiver to store the lo
 
 ![TRANSYSTEM i-Blue 747A+ Navigationssystem](https://di1.shopping.com/images1/pi/f9/a1/d7/93724916-260x260-0-0_TRANSYSTEM+i+Blue+747A.jpg?p=gg2WBh4G3y&a=2&c=276&l=7000182&t=03%2F03%2F10%2012%3A34%3A39%20PM&r=1&d=58.0)
 
-<!--more-->Now I found one of the many GPS Logging devices which is the iBlue 747A+ which is capable of storing 125.000 waypoints. By storing a waypoint every second you can still record continiously for about 34 hours (which the battery won't hold). The device can be used as a regular Bluetooth GPS in combination with a Laptop or PDA but the best part is it's build in memory on which you can store the 125.000 waypoints. At home you can download the log file from the GPS device and use a Geotagging tool to geotag your photos. One of the many options is to display your route on Google Earth and so on.
+Now I found one of the many GPS Logging devices which is the iBlue 747A+ which is capable of storing 125.000 waypoints. By storing a waypoint every second you can still record continiously for about 34 hours (which the battery won't hold). The device can be used as a regular Bluetooth GPS in combination with a Laptop or PDA but the best part is it's build in memory on which you can store the 125.000 waypoints. At home you can download the log file from the GPS device and use a Geotagging tool to geotag your photos. One of the many options is to display your route on Google Earth and so on.
 
 To make the most out of your iBlue 747A+ or some other MTK II chipset based GPS devices, have a look at the BT747 software at [www.bt747.org](http://www.bt747.org/).
 

@@ -1,15 +1,12 @@
 ---
-title: "Wake RN2483 from Sleep (LoraWAN) using Serial Break and 0x55"
-date: "2017-04-02"
-categories: 
-  - "arduino"
-  - "lora"
-  - "tech"
-tags: 
-  - "arduino"
-  - "lorawan"
-  - "rn2483"
-  - "ttn"
+title: Wake RN2483 from Sleep (LoraWAN) using Serial Break and 0x55
+date: 2017-04-02
+categories:
+  - arduino
+  - lora
+  - tech
+tags:
+  - lorawan
 ---
 
 I finally found some time again to build some LoraWAN Arduino toys for TheThingsNetwork.

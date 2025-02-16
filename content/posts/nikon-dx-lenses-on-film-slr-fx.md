@@ -19,22 +19,20 @@ _Don't look at the quality of the images. Those are scanned with a dirty scanner
 
 Image 1: 55-200 VR @ 200mm
 
-[![](images/55-200-at-200mm-300x204.jpg "55-200 at 200mm")](https://www.vdsar.net/wp-content/uploads/2011/02/55-200-at-200mm.jpg)
+![[55-200-at-200mm-300x204.jpg]]
 
 Image 2: 55-200 VR @ 55mm
-
-[![](images/55-200-at-55mm-300x202.jpg "55-200 at 55mm")](https://www.vdsar.net/wp-content/uploads/2011/02/55-200-at-55mm.jpg)
+![[55-200-at-55mm-300x202.jpg]]
 
 Image 3: 18-55 VR @ 55mm
 
-[![](images/18-55-at-55mm-300x202.jpg "18-55 at 55mm")](https://www.vdsar.net/wp-content/uploads/2011/02/18-55-at-55mm.jpg)
+![[18-55-at-55mm-300x202 1.jpg]]
 
 Image 4: 18-55 VR @ 18mm
+![[18-55-at-18mm-300x203.jpg]]
 
-[![](images/18-55-at-18mm-300x203.jpg "18-55 at 18mm")](https://www.vdsar.net/wp-content/uploads/2011/02/18-55-at-18mm.jpg)
 
 Image 5: 35mm f1.8
+![[35mm-300x201.jpg]]
 
-[![](images/35mm-300x201.jpg "35mm")](https://www.vdsar.net/wp-content/uploads/2011/02/35mm.jpg)
 
-[](https://www.vdsar.net/wp-content/uploads/2011/02/18-55-at-55mm.jpg)[](https://www.vdsar.net/wp-content/uploads/2011/02/55-200-at-55mm.jpg)[](https://www.vdsar.net/wp-content/uploads/2011/02/18-55-at-18mm.jpg)

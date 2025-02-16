@@ -1,18 +1,13 @@
 ---
-title: "Rsync backup Synology to Raspberry Pi"
-date: "2013-10-29"
-categories: 
-  - "lifehacking-2"
-  - "tech"
-tags: 
-  - "computer"
-  - "internet"
-  - "lifehacking"
-  - "linux"
-  - "raspberry-pi"
-  - "rsync"
-  - "synology"
-coverImage: "RPI-B.jpg"
+title: Rsync backup Synology to Raspberry Pi
+date: 2013-10-29
+categories:
+  - lifehacking-2
+  - tech
+tags:
+  - synology
+  - backup
+coverImage: RPI-B.jpg
 ---
 
 I've been using the  Strato Hidrive service for a couple of years now to make a remote backup of my local Synology NAS. This is done using Rsync that is available on the Synology and with Hidrive.

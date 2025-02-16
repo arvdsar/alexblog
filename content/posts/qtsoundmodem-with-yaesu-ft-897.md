@@ -1,8 +1,10 @@
 ---
-title: "QtSoundModem with U5Link & Yaesu FT-897 for HF Packet"
-date: "2022-01-01"
-categories: 
-  - "ham-radio"
+title: QtSoundModem with U5Link & Yaesu FT-897 for HF Packet
+date: 2022-01-01
+categories:
+  - ham-radio
+tags:
+  - Hamradio
 ---
 
 How to configure your Raspberry Pi with QtSoundModem, an U5Link USB to Yaesu adapter and the Yaesu FT-897(d).

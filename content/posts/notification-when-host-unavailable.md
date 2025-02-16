@@ -32,8 +32,3 @@ Make sure you setup a scenario on Pushingbox.com and add the DEVID of the scenar
 
 _Actually, in my setup I've included source code that besides sending a notification, it also sends a command to my Domotica Gateway which switches the camera off and on to do a reset._
 
-\[fusion\_builder\_container hundred\_percent="yes" overflow="visible"\]\[fusion\_builder\_row\]\[fusion\_builder\_column type="1\_1" background\_position="left top" background\_color="" border\_size="" border\_color="" border\_style="solid" spacing="yes" background\_image="" background\_repeat="no-repeat" padding="" margin\_top="0px" margin\_bottom="0px" class="" id="" animation\_type="" animation\_speed="0.3" animation\_direction="left" hide\_on\_mobile="no" center\_content="no" min\_height="none"\]\[wpdm\_file id=2\]
-
- 
-
- \[/fusion\_builder\_column\]\[/fusion\_builder\_row\]\[/fusion\_builder\_container\]

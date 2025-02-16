@@ -1,6 +1,8 @@
 ---
-title: "Yaesu FT-65 - TNC Cable"
-date: "2021-07-24"
+title: Yaesu FT-65 - TNC Cable
+date: 2021-07-24
+tags:
+  - Hamradio
 ---
 
 After 26 years I wanted to experiment a bit with packet radio again. Packet Radio is not used that much anymore, but there is still some activity. Around 1995 I was active on 27MC, but this time I wanted to try the 2 meter/70 cm band and recently passed my license exam.

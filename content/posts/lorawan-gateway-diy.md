@@ -12,7 +12,7 @@ tags:
 coverImage: "IMG_4532-e1455577366707.jpg"
 ---
 
-[![](images/IMG_4520-1024x768.jpg)](https://www.vdsar.net/wp-content/uploads/2016/02/IMG_4520.jpg)
+[![](images/IMG_4520-1024x768.jpg)]
 
 This post will describe how to build your own LoRaWAN gateway to connect to i.e. The Things Network or other IOT Networks. If you haven't heard about the LORA technology and [TheThin](http://thethingsnetwork.org)[gsNetwork](http://thethingsnetwork.org) and you are interested in Internet of Things, do some googling ;-)
 

@@ -17,3 +17,5 @@ You can find the source on [Github](https://github.com/arvdsar/node-red-contrib-
 You can install the node in Node-Red using the Manage-Palette option and search for node-red-contrib-complicated.
 
 Connect a http-request node to the output of the complicated node. No need to configure the http-request node itself.
+
+Update: The complicated app is no longer available.

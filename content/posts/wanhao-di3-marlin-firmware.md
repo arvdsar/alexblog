@@ -1,6 +1,8 @@
 ---
-title: "Wanhao Di3 Marlin Firmware"
-date: "2020-06-28"
+title: Wanhao Di3 Marlin Firmware
+date: 2020-06-28
+tags:
+  - 3Dprinting
 ---
 
 My Wanhao Duplicator i3 printer was still running on its initial firmware. This firmware lacks thermal runaway protection which is an important feature which can prevent fire.

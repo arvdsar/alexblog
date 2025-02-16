@@ -1,6 +1,8 @@
 ---
-title: "TTN Gateway upgrade Stack v3"
-date: "2021-10-02"
+title: TTN Gateway upgrade Stack v3
+date: 2021-10-02
+tags:
+  - lorawan
 ---
 
 The TheThingsNetwork v2 stack is deprecated and the nodes and gateway have to be upgraded to the V3 stack. I have a [DIY gateway running with an IMST IC880A-SPI LoRa board](https://www.vdsar.net/lorawan-gateway-diy/).

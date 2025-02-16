@@ -1,19 +1,19 @@
 ---
-title: "Raspberry Pi Open Monitoring Distribution setup guide"
-date: "2015-01-02"
-categories: 
-  - "howto"
-  - "tech"
-tags: 
-  - "computer"
-  - "guide"
-  - "linux"
-  - "monitoring"
-  - "nagios"
-  - "omd"
-  - "raspberry-pi"
-  - "software"
-coverImage: "Check_MK_vdSarICT-4.jpg"
+title: Raspberry Pi Open Monitoring Distribution setup guide
+date: 2015-01-02
+categories:
+  - howto
+  - tech
+tags:
+  - computer
+  - guide
+  - linux
+  - monitoring
+  - nagios
+  - omd
+  - raspberry-pi
+  - software
+coverImage: Check_MK_vdSarICT-4.jpg
 ---
 
 ![Running Check_MK Portal](images/Check_MK_vdSarICT-4-300x113.jpg)Post updated 29-11-2019. Checkmk is now owned / created by [Tribe29](https://tribe29.com/).
