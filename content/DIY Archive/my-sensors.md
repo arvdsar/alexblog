@@ -18,3 +18,5 @@ Currently, my plans are as follows:
 - Water flow sensor using piezo elements to detect someone taking a shower
 - Add LDR sensors to detect light
 - Mailbox (real-life) sensor to detect when mail is being delivered
+
+Update february 2025: The TinyTX with the attiny84 is amazing, but meanwhile are  replaced by other cheap sensors. I still have the TinyTX running in the fridge and measuring the warm/cold water and central heating water temperature. Others have been replaced by cheap zigbee devices.

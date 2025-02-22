@@ -9,7 +9,8 @@ tags:
 
 How to configure your Raspberry Pi with QtSoundModem, an U5Link USB to Yaesu adapter and the Yaesu FT-897(d).
 
-The following article from PE1RRR provided me information on where to find Packet on the HF band (20 meters) and I had to try it out. [https://eindhoven.space/2021/12/24/where-to-find-packet-on-20-meter-](https://eindhoven.space/2021/12/24/where-to-find-packet-on-20-meter-band/)[band](https://eindhoven.space/2021/12/24/where-to-find-packet-on-20-meter-band/)[/](https://eindhoven.space/2021/12/24/where-to-find-packet-on-20-meter-band/).
+The following article from PE1RRR provided me information on where to find Packet on the HF band (20 meters) and I had to try it out. [https://eindhoven.space/2021/12/24/where-to-find-packet-on-20-meter-](https://eindhoven.space/2021/12/24/where-to-find-packet-on-20-meter-band/)[band](https://eindhoven.space/2021/12/24/where-to-find-packet-on-20-meter-band/
+
 
 I’m running my HAM Radio software on a Raspberry Pi using [Build-a-Pi from KM4ACK](https://github.com/km4ack/pi-build).
 

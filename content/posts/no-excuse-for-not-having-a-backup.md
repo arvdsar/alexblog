@@ -17,7 +17,7 @@ This morning I read a magazine in which an article was written about home burgla
 
 Nowadays there is no valid excuse to not have a decent backup. I wrote an [article about online backup](https://www.vdsar.net/archives/766 "Backup strategy and Synology Online backup") using a NAS (network attached storage) a while ago and there are several other solutions available for all kinds of dataprotection.
 
-There are several technologies available for creating a backup. I devide them in 3 categories:
+There are several technologies available for creating a backup. I divide them in 3 categories:
 
 - Non electronic (DVD-R, BluRay, CD Rom, Tape)
 - Electronic storage (i.e.: Harddisk, USB Stick)
