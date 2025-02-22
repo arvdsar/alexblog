@@ -1,16 +1,16 @@
 ---
-title: "2.Water Drop Photography"
-date: "2010-11-05"
-categories: 
-  - "photography"
-tags: 
-  - "flash"
-  - "macro"
-  - "photo"
-  - "photography"
-  - "speedlight"
-  - "strobist"
-  - "waterdrops"
+title: 4. Manual Water Drop Photography
+date: 2010-11-05
+categories:
+  - photography
+tags:
+  - flash
+  - macro
+  - photo
+  - photography
+  - speedlight
+  - strobist
+  - waterdrops
 ---
 
 Ever wanted to know how to make spectaculair photo's of (water)drops? It's less difficult than you might expect. This article will describe how to make those photo's yourself.

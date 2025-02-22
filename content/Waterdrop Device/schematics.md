@@ -1,6 +1,6 @@
 ---
-title: "4.Schematics Waterdrop device"
-date: "2010-12-11"
+title: 3. Schematics Waterdrop device
+date: 2010-12-11
 author: Alexander
 ---
 
@@ -25,6 +25,8 @@ The Uno has just enough memory and ports. You need to program it efficiently, es
 ## Valve Control
 The Shako valve uses 24V DC. While I would prefer using 12V because it generates less heat in the voltage regulators, 24V still works. The Arduino cannot directly power the valve, so you need an electronic circuit.  
 
+![[Valve-Circuit-1024x903.jpg]]
+
 *(Check the connection pins of the TIP121 or a compatible transistor carefully, as I am unsure if the pin numbers in the drawing are correct.)*
 
 ## Flash and Shutter Control
@@ -43,8 +45,9 @@ The third optocoupler triggers the external flash. If you need more flashes, ext
 Each optocoupler is connected to a digital pin on the Arduino. Setting the pin **high** will turn on an LED inside the optocoupler, which activates the optical transistor. No external power is needed for the optocoupler to function.  
 
 ⚠️ **Important:** An optocoupler can only handle a limited current. Do not use it to switch high currents. Modern flashes use about 6V to trigger, while older flashes may require up to **300V**, which can damage the optocoupler. If you need to handle high voltages, search for specialized optocouplers designed for this purpose.
-
+![[Optocoupler-circuit-1024x724.jpg]]
 ## Voltage Regulator (5V and 9V)
+![[spanningsregelaar.jpg]]
 The Arduino can handle input voltages between 5V and 12V but operates most stably between **7V and 12V**. Above 12V, the onboard voltage regulator may overheat.  
 
 My system operates at **24V DC** because the valve requires 24V. To step down the voltage, I use three voltage levels:  
@@ -72,11 +75,10 @@ Purchase an LCD display from eBay based on the **HD44780** driver IC. Popular si
 
 There are many online guides on how to connect an LCD display to the Arduino—Google for instructions.  
 
-You can also check the **PDF manual** of the LCD I used. Most LCDs follow the same wiring principles, so this guide may be useful for your model.
-
 ## Keypad Using One Analog Input Pin
 A **matrix keypad** is available on eBay for a few dollars. Normally, it requires multiple digital input pins, but using a **voltage divider**, you can read it using just **one analog input pin**.  
 
+![[keypad-connection-1024x724.jpg]]
 ### How It Works:
 - In software, read the analog pin value while pressing a key.  
 - Each key press corresponds to a specific voltage, which you can map in your code.  
@@ -92,4 +94,4 @@ More details can be found on the **Arduino Forum** and similar websites.
 ## Sound Detection
 I built a **sound detection circuit** to trigger the flash upon detecting a noise.  
 
-I used a circuit design found in a **PDF document** (not designed by me). While it works, I believe there are more accurate solutions available. If you need higher precision, search for alternative circuits!
+In the end I never used it because it was not good enough. The schematics got lost so if you need this, use google.

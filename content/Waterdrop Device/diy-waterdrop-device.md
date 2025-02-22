@@ -1,19 +1,20 @@
 ---
-title: "1.DIY Waterdrop Device"
-date: "2010-11-09"
+title: 1. DIY Waterdrop Device
+date: 2010-11-09
 author: Alexander
-tags: 
+tags:
   - waterdrop
   - diy
 ---
 
+![[DSC_4939-1-150x150.jpg]]
 To create exciting (water)drop photos, I need a setup to control the frequency and timing of the water drops falling and splashing onto each other. There are some solutions available, but they are quite expensive in my opinion. Maybe I'll think differently after completing my DIY project.
 
 So, I decided to build my own water drop setup. When I talk about "water drop," I also mean other types of liquids, as long as they don't explode. I will update this page throughout the DIY project, which started on November 7th with finding a suitable solution. As of December 11th, 2010, the water drop device is ready in its initial version. 
 
-Pictures taken with this setup can be found [here](#) and [here](#). Specific information can be found at:
-- Schematics
-- Program
+Pictures taken with this setup can be found [here](https://www.flickr.com/photos/arvdsar/sets/72157626042026644/). Specific information can be found at:
+- [[schematics]]
+- [[application]]
 
 ### Parts Required
 There are some basic parts I need for the water drop setup:
@@ -33,9 +34,10 @@ Since having a laptop near a water setup isn't ideal, and I have experience prog
 The Arduino Uno board arrived within 2 days, and programming is relatively easy if you're familiar with a C-like language. The prototype used a serial (USB) connection to the PC for receiving input like program choice and entering delays. Later on, I replaced the serial communication with an LCD display and keypad, so the device can be used without a PC.
 
 ### Solenoid Electric Valve
+![[druppelsetup-1204-150x150.jpg]]
 Finding a suitable valve can be difficult if you're unsure what to look for. The Shako PU220AR01 is used by others for creating water drops, and I can confirm it is a suitable solenoid valve. The valve will be connected to a hose from a water tank and will open with an electronic pulse from the microcontroller. The amount of time the valve stays open will determine the size of the drop.
 
-I ordered my valve from APEX Industrial Supply in the US. Make sure to get the right voltage (they have 110 volts AC and 24 volts DC; I recommend the latter for safety). I received the valve within 3 business days (from the US to the Netherlands). 
+I ordered my valve from [APEX Industrial Supply](http://www.apexindustrialsupply.com/) in the US. Make sure to get the right voltage (they have 110 volts AC and 24 volts DC; I recommend the latter for safety). I received the valve within 3 business days (from the US to the Netherlands). 
 
 You'll also need some brass hose pipes for the valve. I recommend reading this page and starting your search there. Product numbers can also be found on that page.
 
@@ -59,11 +61,11 @@ Again, check the switch to see which wires to connect for autofocus and/or shutt
 I use three optocouplers, each connected to a digital output pin on the Arduino to trigger the flash, autofocus, and shutter. I used the 4N25.
 
 ### Water Tank
+![[druppelsetup-1202-150x150.jpg]]
 You should create a Mariotte Siphon to provide stable pressure to the valve. I used a regular PVC drain pipe with a 5 cm diameter. You can buy standard caps to close such pipes and glue them together. I also found a screw mount cap for this drain pipe, which is very useful when you need to empty the tank. Hosepipes for the setup can typically be found in a pet store (aquarium supplies).
 
 ### Costs & Alternatives
 When I started writing this article, I had only found pre-built systems priced at $200 – $400. If you have enough electronics and programming knowledge, you should be able to build a microcontroller-controlled system yourself for half that price. The basic parts are inexpensive, but it becomes more expensive if you want to put everything in a nice case, add an LCD display, and include a keypad. However, a 20x4 LCD and 16-key keypad can be bought on eBay for about $15. All the small costs add up quickly.
 
-An alternative is the Camera Axe Store, where you can buy either an assembled or DIY Kit of the Camera Axe. This will save you a lot of time designing and developing the hardware and software.
 
 

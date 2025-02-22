@@ -1,12 +1,13 @@
 ---
-title: "3.Application"
-date: "2010-12-11"
+title: 2. Application
+date: 2010-12-11
 author: Alexander
 tags:
   - waterdrop
   - diy
 ---
 
+![[Waterdrop Device/attachments/5249842528_68875b3ee1_z-150x150.jpg]]
 Like with many other software development projects, while writing the application, many new features popped up. I decided to implement basic features first and, based on the results and experiences from the first photo sessions, build new releases. Currently, the application has the following features:
 
 ### Version 0.19 - Updated 6 August 2011
