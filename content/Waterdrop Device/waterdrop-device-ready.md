@@ -1,5 +1,5 @@
 ---
-title: "Waterdrop Device Ready"
+title: "6.Waterdrop Device Ready"
 date: "2010-12-11"
 categories: 
   - "alexander"
