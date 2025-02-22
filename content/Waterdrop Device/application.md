@@ -3,8 +3,8 @@ title: "3.Application"
 date: "2010-12-11"
 author: Alexander
 tags:
-	- waterdrop
-	- diy
+  - waterdrop
+  - diy
 ---
 
 Like with many other software development projects, while writing the application, many new features popped up. I decided to implement basic features first and, based on the results and experiences from the first photo sessions, build new releases. Currently, the application has the following features:

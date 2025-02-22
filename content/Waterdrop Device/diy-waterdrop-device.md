@@ -3,8 +3,8 @@ title: "1.DIY Waterdrop Device"
 date: "2010-11-09"
 author: Alexander
 tags: 
-	- waterdrop
-	- diy
+  - waterdrop
+  - diy
 ---
 
 To create exciting (water)drop photos, I need a setup to control the frequency and timing of the water drops falling and splashing onto each other. There are some solutions available, but they are quite expensive in my opinion. Maybe I'll think differently after completing my DIY project.
