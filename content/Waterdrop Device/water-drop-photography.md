@@ -1,22 +1,16 @@
 ---
-title: 4. Manual Water Drop Photography
+title: 4. Manual waterdrops
 date: 2010-11-05
 categories:
   - photography
 tags:
-  - flash
-  - macro
-  - photo
+  - waterdrop
   - photography
-  - speedlight
-  - strobist
-  - waterdrops
 ---
 
 Ever wanted to know how to make spectaculair photo's of (water)drops? It's less difficult than you might expect. This article will describe how to make those photo's yourself.
 
-_Update: You might want to look at my [DIY waterdrop device](https://www.vdsar.net/diy-waterdrop-device)_
-
+_Update: You might want to look at my [[diy-waterdrop-device]]
 
 You need some tools and equipment to get started:
 

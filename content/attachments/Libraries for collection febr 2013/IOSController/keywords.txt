@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For IOSController
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+IOSController			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+loop					KEYWORD2
+writeMessage			KEYWORD2
+writeTxtMessage			KEYWORD2
+temporaryDigitalWrite	KEYWORD2
+sendFileList			KEYWORD2
+sendFile				KEYWORD2
+
+setNTPServerAddress		KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################

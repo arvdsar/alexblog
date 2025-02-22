@@ -1,5 +1,5 @@
 ---
-title: 1. DIY Waterdrop Device
+title: 1. DIY Waterdrop device
 date: 2010-11-09
 author: Alexander
 tags:
@@ -13,7 +13,7 @@ To create exciting (water)drop photos, I need a setup to control the frequency a
 So, I decided to build my own water drop setup. When I talk about "water drop," I also mean other types of liquids, as long as they don't explode. I will update this page throughout the DIY project, which started on November 7th with finding a suitable solution. As of December 11th, 2010, the water drop device is ready in its initial version. 
 
 Pictures taken with this setup can be found [here](https://www.flickr.com/photos/arvdsar/sets/72157626042026644/). Specific information can be found at:
-- [[schematics]]
+- [[schematics Waterdrop device]]
 - [[application]]
 
 ### Parts Required
