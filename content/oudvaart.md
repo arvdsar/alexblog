@@ -1,4 +1,2 @@
-We zijn de boel aan het upgraden.
+De [Oudvaart temperatuur](https://pd1as.nl/oudvaart) pagina vind je tegenwoordig [hier](https://pd1as.nl/oudvaart):
 
-Spoedig vind je hier de water temperatuur in de Oudvaart weer op deze pagina.
-Het is nu sowieso veel te koud ;-)
