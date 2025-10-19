@@ -62,3 +62,11 @@ allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
 
 <iframe src="https://home.vdsar.net/panoramas/Fehmarn%201.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
 allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
+**Kings Pass Peak in Romania - October 2025**
+<iframe src="https://home.vdsar.net/panoramas/Panorama Kings Hill.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
+allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
+**Somewhere in Hungary close to Fegyvernok - October 2025**
+<iframe src="https://home.vdsar.net/panoramas/Fegyvernek hungary.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
+allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
+<iframe src="https://home.vdsar.net/panoramas/another close to fegyvernek.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
+allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
