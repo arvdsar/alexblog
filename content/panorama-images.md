@@ -70,3 +70,6 @@ allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
 allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
 <iframe src="https://home.vdsar.net/panoramas/another close to fegyvernek.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
 allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
+**From the parking a couple of minutes from the Visegrád castle - October 2025 
+<iframe src="https://home.vdsar.net/panoramas/Parking Visegrad.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
+allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
