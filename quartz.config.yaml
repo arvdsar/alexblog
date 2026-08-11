@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Alex Blog
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -217,6 +217,8 @@ plugins:
       links:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
+        Spam filter in the cloud: http://www.mxguarddog.com
+        TripChunker: https://tripchunker.com
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
