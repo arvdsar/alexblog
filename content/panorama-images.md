@@ -1,9 +1,16 @@
 ---
 title: "Panorama images"
-date: "2024-06-30"
+date: "2026-08-12"
 author: Alexander
 
 ---
+**August 2026 - Kolobrzeg - Marina**
+<iframe src="https://home.vdsar.net/panoramas/kolobrzeg1.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
+allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
+
+**August 2026 - Kolobrzeg - Marina**
+<iframe src="https://home.vdsar.net/panoramas/kolobrzeg2.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
+allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
 
 **July 2024 - Fehmarn - Sup &amp; Wingfoil Festival**
 <iframe src="https://home.vdsar.net/panoramas/Fehmarn%201.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
