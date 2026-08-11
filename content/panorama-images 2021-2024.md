@@ -1,5 +1,5 @@
 ---
-title: "Panorama images"
+title: "Panorama images 2021-2024"
 date: "2026-08-12"
 author: Alexander
 

@@ -13,7 +13,7 @@ Gradually, I'll be updating this page to add details about my recent setup.
 - **Docker Containers** (running on Synology NAS and Intel NUC)  
 - **Portainer** (to manage the containers)  
 - **Node-Red**  
-- **Domoticz**  
+- **HomeAssistant**  
 - **Homebridge** (for Apple HomeKit)  
 - **InfluxDB** (for storing data)  
 - **Grafana** (for graphs)  
@@ -21,10 +21,10 @@ Gradually, I'll be updating this page to add details about my recent setup.
 - **TinyTX Sensors** (from my previous setup)  
 - **The Things Network** (Open LoRaWAN network)  
 - **Z-Wave**  
-- **Philips Hue**  
+- **ZigBee**  
 - **ESP8266** and probably more...
 
-I've reduced the number of Raspberry Pis in my setup. Most of the above applications were running in Docker Containers on my **Synology DS-716 II NAS**. Since the number of containers increased, I added an **Intel NUC** to the setup, running most of the containers. Only the containers with databases now run on the Synology NAS (since it has enough storage and RAID 1).
+I've reduced the number of Raspberry Pis in my setup. Most of the above applications were running in Docker Containers on my **Synology DS-716 II NAS**. Since the number of containers increased, I added an **Intel NUC** to the setup, running most of the containers. Only the database containers  run on the Synology NAS (since it has enough storage and RAID 1).
 
 Using Docker turned out to be stable, and upgrading to new versions of the tools is rather easy—made even simpler using **Portainer**.
 

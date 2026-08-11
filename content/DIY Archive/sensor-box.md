@@ -20,8 +20,6 @@ Things are working now, but it's quite a bunch of work to convert all devices ;-
 
 Also I'm very happy with the Attiny84 microcontrollers which allow some low power sensor nodes. Actually I have not made this up myself, I use the [TinyTX wireless sensors](http://nathan.chantrell.net/tinytx-wireless-sensor/). It's just putting stuff together en modify the data structures to adapt to my situation. Currently I have one TinyTX + DHT22 sensor running on 2 x AA batteries (3volts).
 
-<!--more-->
-
 Now the sensor is running, I wanted to do something with the data. I tried to add ThingSpeak.com to my domotica box to send the temperature and humidity to ThingSpeak.com every minute. Unfortunately, my domotica box is full of network connections to Raspberry Pi, Solar Monitor Arduino, PushingBox and a debug Telnet. So things didn't work out very well.
 
 I've been thinking about connecting another Arduino Nano or Mega via i2c connection but it didn't feel right and became more and more complex. So back to the drawing board!

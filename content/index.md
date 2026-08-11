@@ -1,9 +1,7 @@
 ---
-title: Welcome Alex Blog
+title: Alex Blog
 date: 2025-02-18
 ---
-
-# Welcome to Alex Blog
 
 A tinkerer's notebook since **2009**. This is where I park the things I build, break, fix, and want to remember — from soldering sensors at 2 a.m. to chasing the perfect water-drop photo. If you like electronics, home automation, radio, photography, and a healthy dose of "let's see if this works," you're in the right place.
 

@@ -8,6 +8,8 @@ I build Node-RED images regularly, including several nodes that I use. I use the
 
 I haven't invested time aligning the tags with the Node-RED versions, so I keep a list here to track which tag of my images contains which Node-RED version.
 
+update: Since I build the images with Github Actions the tags start to make sense again. This page won't be updated anymore.
+
 ### mrmadalex/my_new_nodered Tag List
 
 | Tag | Node-RED Version | Comments |
