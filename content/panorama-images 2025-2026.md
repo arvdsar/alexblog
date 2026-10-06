@@ -4,6 +4,10 @@ date: "2026-08-12"
 author: Alexander
 
 ---
+**October 2026 - Banja Luka Bosnia - Camping Jablan**
+<iframe src="https://home.vdsar.net/panoramas/Camping BanjaLuka.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
+allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
+
 **August 2026 - Kolobrzeg - Marina**
 <iframe src="https://home.vdsar.net/panoramas/kolobrzeg1.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
 allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
