@@ -4,6 +4,10 @@ date: "2026-08-12"
 author: Alexander
 
 ---
+**October 2026 - Somewhere driving to Mostar**
+<iframe src="https://home.vdsar.net/panoramas/tomostar.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
+allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
+
 **October 2026 - Donji Vakuf**
 <iframe src="https://home.vdsar.net/panoramas/Donji Vakuf 1.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
 allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
