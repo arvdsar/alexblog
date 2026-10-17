@@ -1,9 +1,13 @@
 ---
 title: "Panorama images 2025-2026"
-date: "2026-08-12"
+date: "2026-10-17"
 author: Alexander
 
 ---
+**October 2026 - Luzani Bosnia**
+<iframe src="https://home.vdsar.net/panoramas/Luzani_1.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
+allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
+
 **October 2026 - Somewhere driving to Mostar**
 <iframe src="https://home.vdsar.net/panoramas/tomostar.html" width="800" height="240" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"
 allowfullscreen mozallowfullscreen webkitallowfullscreen> </iframe>
